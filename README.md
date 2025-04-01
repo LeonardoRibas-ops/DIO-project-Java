@@ -11,4 +11,4 @@ Este projeto é uma simulação de operações bancárias, utilizando padrões d
 ## 🔧 Como Executar
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/seu-usuario/bradesco-dio-project.git
+   git clone https://github.com/seu-usuario/DIO-project-Java.git
