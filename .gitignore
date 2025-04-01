@@ -1,0 +1,25 @@
+# Ignorar diretórios de compilação
+/target/
+*.class
+
+# Ignorar configurações específicas da IDE
+.idea/
+.vscode/
+*.iml
+
+# Ignorar arquivos do Maven
+.mvn/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+dependency-reduced-pom.xml
+buildNumber.properties
+target/
+logs/
+hs_err_pid*
+
+# Ignorar arquivos temporários do sistema
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
